@@ -1,0 +1,143 @@
+body{
+  text-align: center;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  color:383838;
+  margin-top: 50px;;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  line-height: 2;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5em;
+  font-weight:normal;
+  padding: 10px;
+}
+.computer{
+  width: 400px;
+}
+hr{
+  border: dotted #d17fc7 6px;
+  border-bottom: none;
+  width: 8%;
+  margin: 100px auto;
+}
+h3{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.picture{
+  width: 200px;
+  border-radius:50%
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  margin-top: auto;
+  line-height: 1.5;
+}
+.skills{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.middle-container{
+  padding: 100px 0;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration:none;
+}
+.character{
+  padding: 20px;
+  color:Black;
+}
+.bst{
+  width: 25%;
+  float: left;
+}
+.dst{
+  width: 25%;
+  float: right;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  border-radius: 26px;
+  font-family: Georgia;
+  color: #d9347e;
+  font-size: 27px;
+  text-shadow-x: 0;
+  text-shadow-y: 0;
+  text-shadow-blur: 0;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  
+}
+.line{
+  color: #A97155;
+}
+.btn:hover {
+  background:  #30e3cb;
+  background-image: -webkit-linear-gradient(top,  #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.contact-message{
+  width: 40%;
+  color-#A97155;
+  margin:40px auto 60px;
+}
+.bottom-container{
+  padding-bottom: 40px;
+  padding-top: 30px;
+
+}
+.LinkedIn{
+  height: 30px;
+  width: 30px;
+  position: relative;
+  top: 5px;
+  left: 13px;
+}
+.twitter{
+  height: 30px;
+  width: 30px;
+  padding-left: 20px;
+  position: relative;
+  top: 5px;
+  left: 13px;
+}
+.Insta{
+  height: 30px;
+  width: 30px;
+  position: relative;
+  top: 5px;
+  left: 13px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.message-me{
+  color: #A97155;
+}
+.topcloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.bottom-container{
+  color:#11999E;
+}
